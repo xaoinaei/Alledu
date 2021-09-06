@@ -232,7 +232,7 @@ h6 {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: rgba(94, 197, 201, 0.4);
+  background: rgba(55, 135, 226, 0.4);
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
   border-radius: 4px;
@@ -270,7 +270,7 @@ h6 {
   top: 0;
   left: calc(100% - 30px);
   visibility: hidden;
-  background-color: #149ed4;
+  background-color: rgba(55, 135, 226, 0.4);
 }
 
 .navbar .dropdown .dropdown:hover > ul {
@@ -370,7 +370,7 @@ h6 {
   z-index: 99;
   opacity: 1;
   visibility: visible;
-  background: rgb(12, 182, 194);
+  background: rgba(55, 135, 226, 0.4);
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 
